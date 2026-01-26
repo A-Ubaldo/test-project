@@ -28,4 +28,3 @@ if __name__ == "__main__":
     print(table.player_rank(1))
 
 
-Initial commit
